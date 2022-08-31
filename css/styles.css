@@ -1,0 +1,19 @@
+div {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin: 10px 20px 30px 50px;
+  border: 6px green solid;
+  padding: 20px 30px;
+  border-width: 20px;
+  border-color: black;
+  border-style: solid;
+}
+
+.contenedor {
+  background-color: green;
+}
+
+#prueba {
+  background-color: blue;
+}
